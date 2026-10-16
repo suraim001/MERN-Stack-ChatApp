@@ -120,3 +120,5 @@ out/
 .docusaurus
 
 .svelte-kit
+
+k8s/secret.yml
